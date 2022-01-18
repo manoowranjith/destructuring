@@ -1,0 +1,26 @@
+.destructuring{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.user{
+    width: 20vw;
+    height: 20vh;
+    margin:2vh;
+    background-color: sandybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.student{
+    background-color:turquoise;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
